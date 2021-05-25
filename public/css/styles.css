@@ -1,0 +1,13 @@
+body {
+  background: #dcdde1;
+}
+.navbar-brand img {
+  width: 30%;
+}
+.navbar-brand {
+  background: black;
+}
+
+.navbar-dark {
+  background: black;
+}
